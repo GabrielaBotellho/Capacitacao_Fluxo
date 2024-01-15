@@ -1,0 +1,10 @@
+[
+    {
+        "ID": 1,
+        "hospede_id": 2,
+        "propriedade_id": 1,
+        "titulo": "Teste",
+        "descricao": "descricao teste",
+        "status": "em aberto" 
+    }
+]
